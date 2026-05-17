@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favourite thing</title>
+</head>
+<body>
+    <h1><u></u>My faviroute movie</h1>
+    <p>my faviroute movie name is hii nanna</p>
+    <br/>
+    <hr/>
+    <h2>characters in movie</h2>
+    <ol>
+        <li>nani</li>
+        <li>mrunal</li>
+        <li>baby girl</li>
+    </ol>
+    <hr/>
+    <h2>movie content</h2>
+    <ul>
+        <li>love between hero and heroine</li>
+        <li>daughter and mother emotion</li>
+    </ul>
+    <h3>movie adopting website</h3>
+    <a href="https://www.primevideo.com">movie</a>
+    
+</body>
+</html>
